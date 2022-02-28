@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true coppy of a letter from the Lord cheife Iustices in Ireland, with a proclamation of the rebels therein dated from Dublin Novem. 5. 1641. VVhereunto is annected certaine propositions presented to the Parliament by the marchants for the West-Indy Company : with some obiections answered.</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94999</idno>
+            <idno type="STC">Wing T2616</idno>
+            <idno type="STC">Thomason E175_16</idno>
+            <idno type="STC">ESTC R6166</idno>
+            <idno type="EEBO-CITATION">99872952</idno>
+            <idno type="PROQUEST">99872952</idno>
+            <idno type="VID">157084</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94999)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157084)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E175[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true coppy of a letter from the Lord cheife Iustices in Ireland, with a proclamation of the rebels therein dated from Dublin Novem. 5. 1641. VVhereunto is annected certaine propositions presented to the Parliament by the marchants for the West-Indy Company : with some obiections answered.</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>West-Indische Compagnie (Netherlands)</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>West-Indische Compagnie (Netherlands) --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157084:1"/>
+            <!-- PDF PAGE 42 -->
+            <pb facs="tcp:157084:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 42 -->
+            <p>A TRVE COPPY OF A Letter from the Lord cheife Iuſtices in <hi>Ireland,</hi> with a Proclamation of the Rebels therein: Dated from <hi>Dublin Novem.</hi> 5. 1641.</p>
+            <p>Wherunto is annected certaine Propoſitions preſen<g ref="char:EOLhyphen"/>ted to the Parliament by the Marchants for the <hi>Weſt-Indy</hi> Company: with Anſwered.</p>
+            <p>Printed at <hi>London,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:157084:2"/>
+            <!-- PDF PAGE 43 -->
+            <pb facs="tcp:157084:2"/>
+            <!-- PDF PAGE 43 -->
+            <head>A Coppie of a Letter from the Lord cheife Iuſtices in <hi>Ireland,</hi> with a Proclamation of the Rebells therein incloſed, together with the maſſacring of all thoſe, that obeyed not the ſame.</head>
+            <head type="sub">The Letter was dated <date>the 5. of <hi>November.</hi> 1641.</date>
+            </head>
+            <opener>
+               <dateline>From the Caſtle in Dublin.</dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Calamity on the <hi>Engliſh</hi> and Proteſtants in <hi>Ireland</hi> is great, and the miſchiefes, that the Rebells have done, are many, and ſo much the more ought to bee ſeverely executed by reaſon of a Proclamation, which the Rebells have put out. Commanding all thoſe, that are ei<g ref="char:EOLhyphen"/>ther
+<pb n="2" facs="tcp:157084:3"/>
+               <!-- PDF PAGE 44 -->
+               <hi>Engliſh,</hi> or Proteſtants, to bee gone away immediately after the publiſhing thereof; or otherwiſe to take what puniſh<g ref="char:EOLhyphen"/>ment the Rebells ſhall inflict upon them; and that they doe execute with all cruelty, by cutting off the heads of all thoſe that remaine, and by burning their Villages, and putting both Man, woman and Child, to the ſword.</p>
+         </div>
+         <div type="addenda">
+            <pb facs="tcp:157084:3"/>
+            <!-- PDF PAGE 44 -->
+            <head>To the Houſe of PARLIAMENT.</head>
+            <div type="propositions">
+               <head>Propositions of the Merchants for a <hi>Weſt-Jndia</hi> Company. VVith the ob<g ref="char:EOLhyphen"/>iections made againſt it, and Anſwers to the obiections.</head>
+               <p>
+                  <label>The firſt Propoſition.</label>
+                  <lb/>
+WHeteher the Houſe would grantt them a free trade or no?</p>
+               <p>
+                  <label>The ſecond Propoſition.</label>
+                  <lb/>
+Whethe the Houſe would grant it in a
+<pb n="4" facs="tcp:157084:4"/>
+                  <!-- PDF PAGE 45 -->
+publique way or no, to all in generall, that would come in.</p>
+               <p>
+                  <label>The third Propoſition.</label>
+                  <lb/>
+Whether the Houſe would not grant it to any particular perſon, that would deſire it or no.</p>
+            </div>
+            <div type="objections">
+               <head>Obiections againſt the Eaſt-India Companie.</head>
+               <p>
+                  <label>Obiection the firſt.</label>
+                  <lb/>
+THat the ſtocke, which ſhould mannage the ſame, would be too great to venture in the Subiects hands, and bee a meanes to make them too peremptorie againſt their Prince, if any difference ſhould ariſe between them.</p>
+               <p>
+                  <label>Obection the ſecond.</label>
+                  <lb/>
+The King of <hi>Spaines</hi> power was ſo great and ſo vaſt, that it would bee very difficult to effect it.</p>
+               <div type="responses_to_objections">
+                  <pb n="5" facs="tcp:157084:4"/>
+                  <!-- PDF PAGE 45 -->
+                  <head>Anſwers by the Merchants of the VVeſt-India Company to the Obiections.</head>
+                  <p>
+                     <label>Anſwer the first.</label>
+                     <lb/>
+IT cannot bee too great a ſtocke becauſe ſhipping can never bee too great, and now more eſpecially, becauſe the defence of the Kingdome lies upon the ſame.</p>
+                  <p>
+                     <label>Anſwer the ſecond.</label>
+                     <lb/>
+The power of <hi>Spayne</hi> was never ſo much weakened as now it is, for every Prince pluckes a feather from it; As <hi>Portugall, France,</hi> and the <hi>Low-Countries:</hi> therefore <hi>England</hi> would be very improvident, if it did not ſhare amonſt them.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
